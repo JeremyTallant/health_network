@@ -27,7 +27,7 @@ After completing the installation, launch Jupyter Notebook, navigate to the fold
 4. **Connections facilitating coordination nationwide:**
 5. **Connections for regional coordination:**
 6. **Which health departments are central in Texas and Louisiana?:**
-7. Visualizing the central health departments
+7. **Visualizing the central health departments:**
 8. What about state-level networks during emergencies?
 9. Are central health departments urban?
 10. Which health departments have high betweenness?
