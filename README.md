@@ -21,7 +21,7 @@ IRkernel::installspec()
 ```
 After completing the installation, launch Jupyter Notebook, navigate to the folder containing the notebook file, and open it to begin running the analysis.
 ## Contents
-1. Ebola, hurricanes, and forest fires, oh my
+1. **Ebola, hurricanes, and forest fires, oh my:** Import the network ties and the characteristics of each health department in the network.
 2. Cleaning up the network object
 3. Getting to know the network
 4. Connections facilitating coordination nationwide
