@@ -25,7 +25,7 @@ After completing the installation, launch Jupyter Notebook, navigate to the fold
 2. **Cleaning up the network object:**
 3. **Getting to know the network:**
 4. **Connections facilitating coordination nationwide:**
-5. Connections for regional coordination
+5. **Connections for regional coordination:**
 6. Which health departments are central in Texas and Louisiana?
 7. Visualizing the central health departments
 8. What about state-level networks during emergencies?
