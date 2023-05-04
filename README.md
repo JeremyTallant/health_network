@@ -27,7 +27,7 @@ After completing the installation, launch Jupyter Notebook, navigate to the fold
 4. **Connections facilitating coordination nationwide:** Identify the key central health departments that share information and coordinate national emergency preparedness and response.
 5. **Connections for regional coordination:** Examine the network of local health departments across Texas and Louisiana.
 6. **Which health departments are central in Texas and Louisiana?:** Find the health departments in each state that are most well connected and are bridging others.
-7. **Visualizing the central health departments:** Examine the central nodes using network plots:
-8. **What about state-level networks during emergencies?:**
+7. **Visualizing the central health departments:** Examine the central nodes using network plots.
+8. **What about state-level networks during emergencies?:** Examine the network of California health departments.
 9. **Are central health departments urban?:**
 10. **Which health departments have high betweenness?:**
