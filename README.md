@@ -30,4 +30,4 @@ After completing the installation, launch Jupyter Notebook, navigate to the fold
 7. **Visualizing the central health departments:** Examine the central nodes using network plots.
 8. **What about state-level networks during emergencies?:** Examine the network of California health departments.
 9. **Are central health departments urban?:** Visualize cali.net with nodes sized by degree centrality and node color representing rurality, population, and fte.
-10. **Which health departments have high betweenness?:**
+10. **Which health departments have high betweenness?:** Visualize cali.net with node color representing different network characteristics and node size representing betweenness.
