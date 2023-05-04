@@ -25,7 +25,7 @@ After completing the installation, launch Jupyter Notebook, navigate to the fold
 2. **Cleaning up the network object:** Check the network object for loops and multiple ties between health departments.
 3. **Getting to know the network:** Get to know your network via a few standard network descriptive statistics.
 4. **Connections facilitating coordination nationwide:** Identify the key central health departments that share information and coordinate national emergency preparedness and response.
-5. **Connections for regional coordination:**
+5. **Connections for regional coordination:** Examine the network of local health departments across Texas and Louisiana:
 6. **Which health departments are central in Texas and Louisiana?:**
 7. **Visualizing the central health departments:**
 8. **What about state-level networks during emergencies?:**
